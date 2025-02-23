@@ -24,12 +24,10 @@ const me = {
 
 ## 📈 GitHub Analytics
 <div style="border-radius: 15px; overflow: hidden;height: 15rem; display: inline-block;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LizkaRyan&bg_color=ffff&color=0d1017&line=2ba0ff&point=2ba0ff&area=true&hide_border=false" alt="Graphique d'activité">
+  <img src="https://github-readme-stats.vercel.app/api?username=LizkaRyan&theme=white&show_icons=true" alt="Stats" />
 </div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizkaRyan&theme=white&show_icons=true" alt="Stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizkaRyan&theme=light&layout=compact&hide=html,css" alt="Streak Stats" width="38%" />
+<div style="border-radius: 15px; overflow: hidden;height: 15rem; display: inline-block;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LizkaRyan&bg_color=ffff&color=0d1017&line=2ba0ff&point=2ba0ff&area=true&hide_border=false" alt="Graphique d'activité">
 </div>
 
 ## 📫 Contact
