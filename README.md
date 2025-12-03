@@ -1,4 +1,9 @@
 # 👋 Welcome !
+<p align="center">
+  <a href="VOTRE_URL_PORTFOLIO">
+    <img src="https://img.shields.io/badge/🚀Check_my_Portfolio-4285F4?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
 ## 🧑‍💻 About Me
 ```javascript
@@ -16,11 +21,6 @@ const me = {
 
 ## 🛠️ Tech Stack
 ![HTML5](https://skillicons.dev/icons?i=python,java,dotnet,spring,postgresql,javascript,nodejs,vue,nuxt,html,css,tailwind,php,laravel,docker,github,vscode,idea&theme=light)
-
-## 💻 My projects
-- [WinterFramework](https://github.com/LizkaRyan/WinterFramework) : Framework insipiré par Spring. Conçu pour simplifier le développement d'application Java
-- [IAR](https://github.com/LizkaRyan/IAR) : Image Assistent Referee.
-
 
 ## 📈 GitHub Analytics
 <div style="border-radius: 15px; overflow: hidden;height: 15rem; display: inline-block;">
