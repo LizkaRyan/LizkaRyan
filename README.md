@@ -1,7 +1,7 @@
 # 👋 Welcome !
 <p align="center">
   <a href="https://lizkaryan.github.io/MyPortfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀Check_my_Portfolio-4285F4?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🚀Check_out_my_Portfolio-4285F4?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 
