@@ -22,13 +22,20 @@ const me = {
 ## 🛠️ Tech Stack
 ![HTML5](https://skillicons.dev/icons?i=python,java,dotnet,spring,postgresql,javascript,nodejs,vue,nuxt,html,css,tailwind,php,laravel,docker,github,vscode,idea&theme=light)
 
-## 📈 GitHub Analytics
-<div style="border-radius: 15px; overflow: hidden;height: 15rem; display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizkaRyan&theme=white&show_icons=true" alt="Stats" />
-</div>
-<div style="border-radius: 15px; overflow: hidden;height: 15rem; display: inline-block;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LizkaRyan&bg_color=ffff&color=0d1017&line=2ba0ff&point=2ba0ff&area=true&hide_border=false" alt="Graphique d'activité">
-</div>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LizkaRyan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizkaRyan&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LizkaRyan&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ## 📫 Contact
 <div style="display: flex; align-items: center;">
