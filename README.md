@@ -38,8 +38,6 @@ const me = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=LizkaRyan&theme=flat&no-frame=true&row=1&column=6" />
-
 </div>
 
 ## 📫 Contact
