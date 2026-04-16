@@ -23,19 +23,24 @@ const me = {
 ![HTML5](https://skillicons.dev/icons?i=python,java,dotnet,spring,postgresql,javascript,nodejs,vue,nuxt,html,css,tailwind,php,laravel,docker,github,vscode,idea&theme=light)
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizkaRyan&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizkaRyan&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=LizkaRyan&show_icons=true&theme=default" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizkaRyan&theme=default" />
+    </td>
+  </tr>
+</table>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LizkaRyan&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=LizkaRyan&theme=flat&no-frame=true&row=1&column=6" />
+
+</div>
 
 ## 📫 Contact
 <div style="display: flex; align-items: center;">
